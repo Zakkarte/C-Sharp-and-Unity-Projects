@@ -1,0 +1,7 @@
+C:\Users\dakot\source\repos\DR-Tech-Academy\DR-Tech-Academy\bin\Debug\DR-Tech-Academy.exe.config
+C:\Users\dakot\source\repos\DR-Tech-Academy\DR-Tech-Academy\bin\Debug\DR-Tech-Academy.exe
+C:\Users\dakot\source\repos\DR-Tech-Academy\DR-Tech-Academy\bin\Debug\DR-Tech-Academy.pdb
+C:\Users\dakot\source\repos\DR-Tech-Academy\DR-Tech-Academy\obj\Debug\DR-Tech-Academy.csproj.AssemblyReference.cache
+C:\Users\dakot\source\repos\DR-Tech-Academy\DR-Tech-Academy\obj\Debug\DR-Tech-Academy.csproj.CoreCompileInputs.cache
+C:\Users\dakot\source\repos\DR-Tech-Academy\DR-Tech-Academy\obj\Debug\DR-Tech-Academy.exe
+C:\Users\dakot\source\repos\DR-Tech-Academy\DR-Tech-Academy\obj\Debug\DR-Tech-Academy.pdb
