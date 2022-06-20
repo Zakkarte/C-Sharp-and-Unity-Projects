@@ -1,0 +1,7 @@
+C:\Users\dakot\source\repos\MathCompAssignment\MathCompAssignment\bin\Debug\MathCompAssignment.exe.config
+C:\Users\dakot\source\repos\MathCompAssignment\MathCompAssignment\bin\Debug\MathCompAssignment.exe
+C:\Users\dakot\source\repos\MathCompAssignment\MathCompAssignment\bin\Debug\MathCompAssignment.pdb
+C:\Users\dakot\source\repos\MathCompAssignment\MathCompAssignment\obj\Debug\MathCompAssignment.csproj.AssemblyReference.cache
+C:\Users\dakot\source\repos\MathCompAssignment\MathCompAssignment\obj\Debug\MathCompAssignment.csproj.CoreCompileInputs.cache
+C:\Users\dakot\source\repos\MathCompAssignment\MathCompAssignment\obj\Debug\MathCompAssignment.exe
+C:\Users\dakot\source\repos\MathCompAssignment\MathCompAssignment\obj\Debug\MathCompAssignment.pdb
