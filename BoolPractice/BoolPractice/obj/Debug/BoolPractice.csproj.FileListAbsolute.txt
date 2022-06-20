@@ -1,0 +1,7 @@
+C:\Users\dakot\source\repos\BoolPractice\BoolPractice\bin\Debug\BoolPractice.exe.config
+C:\Users\dakot\source\repos\BoolPractice\BoolPractice\bin\Debug\BoolPractice.exe
+C:\Users\dakot\source\repos\BoolPractice\BoolPractice\bin\Debug\BoolPractice.pdb
+C:\Users\dakot\source\repos\BoolPractice\BoolPractice\obj\Debug\BoolPractice.csproj.AssemblyReference.cache
+C:\Users\dakot\source\repos\BoolPractice\BoolPractice\obj\Debug\BoolPractice.csproj.CoreCompileInputs.cache
+C:\Users\dakot\source\repos\BoolPractice\BoolPractice\obj\Debug\BoolPractice.exe
+C:\Users\dakot\source\repos\BoolPractice\BoolPractice\obj\Debug\BoolPractice.pdb
