@@ -1,0 +1,7 @@
+C:\Users\dakot\source\repos\BranchAssignment\BranchAssignment\bin\Debug\BranchAssignment.exe.config
+C:\Users\dakot\source\repos\BranchAssignment\BranchAssignment\bin\Debug\BranchAssignment.exe
+C:\Users\dakot\source\repos\BranchAssignment\BranchAssignment\bin\Debug\BranchAssignment.pdb
+C:\Users\dakot\source\repos\BranchAssignment\BranchAssignment\obj\Debug\BranchAssignment.csproj.AssemblyReference.cache
+C:\Users\dakot\source\repos\BranchAssignment\BranchAssignment\obj\Debug\BranchAssignment.csproj.CoreCompileInputs.cache
+C:\Users\dakot\source\repos\BranchAssignment\BranchAssignment\obj\Debug\BranchAssignment.exe
+C:\Users\dakot\source\repos\BranchAssignment\BranchAssignment\obj\Debug\BranchAssignment.pdb
