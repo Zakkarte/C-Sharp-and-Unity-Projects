@@ -1,0 +1,6 @@
+C:\Users\dakot\source\repos\ArrayAssignment\ArrayAssignment\bin\Debug\ArrayAssignment.exe.config
+C:\Users\dakot\source\repos\ArrayAssignment\ArrayAssignment\bin\Debug\ArrayAssignment.exe
+C:\Users\dakot\source\repos\ArrayAssignment\ArrayAssignment\bin\Debug\ArrayAssignment.pdb
+C:\Users\dakot\source\repos\ArrayAssignment\ArrayAssignment\obj\Debug\ArrayAssignment.csproj.CoreCompileInputs.cache
+C:\Users\dakot\source\repos\ArrayAssignment\ArrayAssignment\obj\Debug\ArrayAssignment.exe
+C:\Users\dakot\source\repos\ArrayAssignment\ArrayAssignment\obj\Debug\ArrayAssignment.pdb
