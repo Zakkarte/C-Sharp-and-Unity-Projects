@@ -5,3 +5,10 @@ C:\Users\dakot\source\repos\ConsoleAppAssignment\ConsoleAppAssignment\obj\Debug\
 C:\Users\dakot\source\repos\ConsoleAppAssignment\ConsoleAppAssignment\obj\Debug\ConsoleAppAssignment.csproj.CoreCompileInputs.cache
 C:\Users\dakot\source\repos\ConsoleAppAssignment\ConsoleAppAssignment\obj\Debug\ConsoleAppAssignment.exe
 C:\Users\dakot\source\repos\ConsoleAppAssignment\ConsoleAppAssignment\obj\Debug\ConsoleAppAssignment.pdb
+C:\Users\dakot\OneDrive\Documents\GitHub\C-Sharp-and-Unity-Projects\ConsoleAppAssignment\ConsoleAppAssignment\bin\Debug\ConsoleAppAssignment.exe.config
+C:\Users\dakot\OneDrive\Documents\GitHub\C-Sharp-and-Unity-Projects\ConsoleAppAssignment\ConsoleAppAssignment\bin\Debug\ConsoleAppAssignment.exe
+C:\Users\dakot\OneDrive\Documents\GitHub\C-Sharp-and-Unity-Projects\ConsoleAppAssignment\ConsoleAppAssignment\bin\Debug\ConsoleAppAssignment.pdb
+C:\Users\dakot\OneDrive\Documents\GitHub\C-Sharp-and-Unity-Projects\ConsoleAppAssignment\ConsoleAppAssignment\obj\Debug\ConsoleAppAssignment.csproj.AssemblyReference.cache
+C:\Users\dakot\OneDrive\Documents\GitHub\C-Sharp-and-Unity-Projects\ConsoleAppAssignment\ConsoleAppAssignment\obj\Debug\ConsoleAppAssignment.csproj.CoreCompileInputs.cache
+C:\Users\dakot\OneDrive\Documents\GitHub\C-Sharp-and-Unity-Projects\ConsoleAppAssignment\ConsoleAppAssignment\obj\Debug\ConsoleAppAssignment.exe
+C:\Users\dakot\OneDrive\Documents\GitHub\C-Sharp-and-Unity-Projects\ConsoleAppAssignment\ConsoleAppAssignment\obj\Debug\ConsoleAppAssignment.pdb
