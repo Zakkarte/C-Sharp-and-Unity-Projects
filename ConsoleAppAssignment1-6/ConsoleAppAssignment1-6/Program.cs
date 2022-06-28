@@ -69,73 +69,76 @@ namespace ConsoleAppAssignment1_6
             Console.WriteLine("____________________________________________________________________");
 
             List<string> addressList = new List<string>() { "Main", "First", "Second", "Third" };
-            List<string> userDefAddressList = new List<string>();
             Console.WriteLine("Do you live on Main, First, Second, or Third Street?");
             string userSelectedAddress = Console.ReadLine();
-            foreach (string address in addressList)
+
+            for (int i = 0; i < addressList.Count; i++)
             {
-                if (address == userSelectedAddress)
+                if (!addressList.Contains(userSelectedAddress))
                 {
-                    userDefAddressList.Add(address);
-                    Console.WriteLine(userDefAddressList.Count);
+                    Console.WriteLine("Not a viable answer");
                     break;
                 }
-                else if (address != userSelectedAddress)
+
+                else if (userSelectedAddress == addressList[i])
                 {
-                    Console.WriteLine("You have entered an address that is not on the List");
-                    break;
+                    Console.WriteLine(i);
+                    break; // will stop getting indexcies as it terminates the iteration <--- in loop
                 }
-                
+
             }
+
             Console.WriteLine("Assignment 04 End");
             Console.WriteLine("____________________________________________________________________");
             //Assignment 04 End
             //Assignment 05 Begin
             Console.WriteLine("Assignment 05 Begin");
             Console.WriteLine("____________________________________________________________________");
-            List<string> studentNames = new List<string>() { "Joe", "Joe", "Tim", "Paul" };        
+            List<string> studentNames = new List<string>() { "Joe", "Joe", "Tim", "Paul", "Joe" };        
             Console.WriteLine("What is your childs name?");
             string userStudentNameSelected = Console.ReadLine();
-            foreach (string studentname in studentNames)
+
+            for (int i = 0; i < studentNames.Count; i++)
             {
-                if (userStudentNameSelected == studentname)
+                if (!studentNames.Contains(userStudentNameSelected))
                 {
-                    Console.WriteLine(studentname.Count());
+                    Console.WriteLine("Not a viable answer");
                     break;
                 }
-                else if (userStudentNameSelected != studentname)
+
+                else if (userStudentNameSelected == studentNames[i])
                 {
-                    Console.WriteLine("You didn't input a valid Student Name");
-                    break;
+                    Console.WriteLine(i);
                 }
+
             }
 
             Console.WriteLine("Assignment 05 End");
             Console.WriteLine("____________________________________________________________________");
-            // I have no idea how to perform what is asked in the instructions
-            //Assignment 05 End
+            Console.WriteLine("Assignment 06 Begin");
+            Console.WriteLine("____________________________________________________________________");
+            
             List<string> studentNames1 = new List<string>() { "Joe", "Joe", "Tim", "Paul" };
+            List<string> studentNamesMulti = new List<string>();
+
             foreach (string studentname in studentNames1)
             {
-                Console.WriteLine(studentname);
-                if (studentname == studentname)
+                if (studentNamesMulti.Contains(studentname))
                 {
-                    Console.WriteLine("Has already been displayed");
+                    Console.WriteLine("This has appeared in the list before " + studentname);
+                }
+                else
+                {
+                    Console.WriteLine("This has not appeared in the list yet " + studentname);
+                    studentNamesMulti.Add(studentname);
                 }
             }
 
-
-
-
-
-
-
-
+            Console.WriteLine("Assignment 06 End");
+            Console.WriteLine("____________________________________________________________________");
 
             Console.ReadLine();
-            
-                    
-                
+                 
         }
     }
 }
