@@ -1,0 +1,6 @@
+C:\Users\dakot\source\repos\ConsoleAppPG203\ConsoleAppPG203\bin\Debug\ConsoleAppPG203.exe.config
+C:\Users\dakot\source\repos\ConsoleAppPG203\ConsoleAppPG203\bin\Debug\ConsoleAppPG203.exe
+C:\Users\dakot\source\repos\ConsoleAppPG203\ConsoleAppPG203\bin\Debug\ConsoleAppPG203.pdb
+C:\Users\dakot\source\repos\ConsoleAppPG203\ConsoleAppPG203\obj\Debug\ConsoleAppPG203.csproj.CoreCompileInputs.cache
+C:\Users\dakot\source\repos\ConsoleAppPG203\ConsoleAppPG203\obj\Debug\ConsoleAppPG203.exe
+C:\Users\dakot\source\repos\ConsoleAppPG203\ConsoleAppPG203\obj\Debug\ConsoleAppPG203.pdb
