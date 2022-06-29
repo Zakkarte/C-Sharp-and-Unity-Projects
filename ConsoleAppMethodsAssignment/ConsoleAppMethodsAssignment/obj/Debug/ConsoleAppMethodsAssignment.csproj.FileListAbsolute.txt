@@ -1,0 +1,7 @@
+C:\Users\dakot\source\repos\ConsoleAppMethodsAssignment\ConsoleAppMethodsAssignment\bin\Debug\ConsoleAppMethodsAssignment.exe.config
+C:\Users\dakot\source\repos\ConsoleAppMethodsAssignment\ConsoleAppMethodsAssignment\bin\Debug\ConsoleAppMethodsAssignment.exe
+C:\Users\dakot\source\repos\ConsoleAppMethodsAssignment\ConsoleAppMethodsAssignment\bin\Debug\ConsoleAppMethodsAssignment.pdb
+C:\Users\dakot\source\repos\ConsoleAppMethodsAssignment\ConsoleAppMethodsAssignment\obj\Debug\ConsoleAppMethodsAssignment.csproj.AssemblyReference.cache
+C:\Users\dakot\source\repos\ConsoleAppMethodsAssignment\ConsoleAppMethodsAssignment\obj\Debug\ConsoleAppMethodsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\dakot\source\repos\ConsoleAppMethodsAssignment\ConsoleAppMethodsAssignment\obj\Debug\ConsoleAppMethodsAssignment.exe
+C:\Users\dakot\source\repos\ConsoleAppMethodsAssignment\ConsoleAppMethodsAssignment\obj\Debug\ConsoleAppMethodsAssignment.pdb
