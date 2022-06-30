@@ -14,9 +14,9 @@ namespace ConsoleAppMethodsAssignment
             var userValue = Convert.ToInt32(Console.ReadLine());
 
             var mathsObject = new maths();
-            var resultAdd = mathsObject.Add(userValue, 50);
-            var resultSub = mathsObject.Subtract(userValue, 10);
-            var resultDivide = mathsObject.Divide(userValue, 2);
+            var resultAdd = mathsObject.Add(userValue);
+            var resultSub = mathsObject.Subtract(userValue);
+            var resultDivide = mathsObject.Divide(userValue);
 
             Console.WriteLine("-------------");
             Console.WriteLine(userValue + " + 50 = " + resultAdd);

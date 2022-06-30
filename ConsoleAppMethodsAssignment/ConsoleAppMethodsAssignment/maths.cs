@@ -10,19 +10,19 @@ namespace ConsoleAppMethodsAssignment
     public class maths
     {
         
-        public int Add(int data, int value)
+        public int Add(int data)
         {
-            return data + value;
+            return data + 50;
         }
 
-        public int Subtract(int data, int value)
+        public int Subtract(int data)
         {
-            return data - value;
+            return data - 10;
         }
 
-        public float Divide(float data, float value)
+        public float Divide(int data)
         {
-            return data / value;
+            return data / 2;
         }
     }
 }
