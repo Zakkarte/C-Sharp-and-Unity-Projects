@@ -20,7 +20,7 @@ namespace ConsoleAppMethodsAssignment
             return data - 10;
         }
 
-        public float Divide(int data)
+        public int Divide(int data)
         {
             return data / 2;
         }
