@@ -1,0 +1,7 @@
+C:\Users\dakot\source\repos\ConsoleAppMethod219\ConsoleAppMethod219\bin\Debug\ConsoleAppMethod219.exe.config
+C:\Users\dakot\source\repos\ConsoleAppMethod219\ConsoleAppMethod219\bin\Debug\ConsoleAppMethod219.exe
+C:\Users\dakot\source\repos\ConsoleAppMethod219\ConsoleAppMethod219\bin\Debug\ConsoleAppMethod219.pdb
+C:\Users\dakot\source\repos\ConsoleAppMethod219\ConsoleAppMethod219\obj\Debug\ConsoleAppMethod219.csproj.AssemblyReference.cache
+C:\Users\dakot\source\repos\ConsoleAppMethod219\ConsoleAppMethod219\obj\Debug\ConsoleAppMethod219.csproj.CoreCompileInputs.cache
+C:\Users\dakot\source\repos\ConsoleAppMethod219\ConsoleAppMethod219\obj\Debug\ConsoleAppMethod219.exe
+C:\Users\dakot\source\repos\ConsoleAppMethod219\ConsoleAppMethod219\obj\Debug\ConsoleAppMethod219.pdb
