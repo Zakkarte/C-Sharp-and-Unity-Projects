@@ -13,6 +13,8 @@ namespace ConsoleMethod220
             var mathsobject = new Maths();
             mathsobject.Method(100, 200);
 
+            mathsobject.Method(a: 500, b: 8);
+
             Console.Read();
 
         }
