@@ -18,6 +18,13 @@ namespace ConsoleAppClass224
 
             Console.WriteLine(userInput + " halved is : " + userResult);
 
+            mathsObject.method(2, 2);
+            mathsObject.method(2, 2, 2);
+            
+            var arithmaResult = arithma.sum(1, 1);
+
+            Console.WriteLine(arithmaResult);
+
             Console.Read();
             
         }

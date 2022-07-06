@@ -13,5 +13,27 @@ namespace ConsoleAppClass224
             result = a / 2;
         }
         
-    }
+        public void method(int b, int c)
+        {
+            Console.WriteLine(b + c);
+        }
+        public void method(int b, int c, int d)
+        {
+            Console.WriteLine(b + c + d);
+
+        }
+     }
+        
+        public static class arithma
+        {
+            public static int sum(int z, int y)
+            {
+                var result = z + y;
+                return result;
+
+            }
+
+        }
+
+    
 }
