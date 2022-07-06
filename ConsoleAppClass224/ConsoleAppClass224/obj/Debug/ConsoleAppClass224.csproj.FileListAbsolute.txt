@@ -1,0 +1,7 @@
+C:\Users\dakot\source\repos\ConsoleAppClass224\ConsoleAppClass224\bin\Debug\ConsoleAppClass224.exe.config
+C:\Users\dakot\source\repos\ConsoleAppClass224\ConsoleAppClass224\bin\Debug\ConsoleAppClass224.exe
+C:\Users\dakot\source\repos\ConsoleAppClass224\ConsoleAppClass224\bin\Debug\ConsoleAppClass224.pdb
+C:\Users\dakot\source\repos\ConsoleAppClass224\ConsoleAppClass224\obj\Debug\ConsoleAppClass224.csproj.AssemblyReference.cache
+C:\Users\dakot\source\repos\ConsoleAppClass224\ConsoleAppClass224\obj\Debug\ConsoleAppClass224.csproj.CoreCompileInputs.cache
+C:\Users\dakot\source\repos\ConsoleAppClass224\ConsoleAppClass224\obj\Debug\ConsoleAppClass224.exe
+C:\Users\dakot\source\repos\ConsoleAppClass224\ConsoleAppClass224\obj\Debug\ConsoleAppClass224.pdb
