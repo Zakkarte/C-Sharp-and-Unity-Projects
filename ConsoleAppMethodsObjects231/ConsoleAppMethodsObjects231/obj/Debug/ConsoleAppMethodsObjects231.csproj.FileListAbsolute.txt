@@ -1,0 +1,7 @@
+C:\Users\dakot\source\repos\ConsoleAppMethodsObjects231\ConsoleAppMethodsObjects231\bin\Debug\ConsoleAppMethodsObjects231.exe.config
+C:\Users\dakot\source\repos\ConsoleAppMethodsObjects231\ConsoleAppMethodsObjects231\bin\Debug\ConsoleAppMethodsObjects231.exe
+C:\Users\dakot\source\repos\ConsoleAppMethodsObjects231\ConsoleAppMethodsObjects231\bin\Debug\ConsoleAppMethodsObjects231.pdb
+C:\Users\dakot\source\repos\ConsoleAppMethodsObjects231\ConsoleAppMethodsObjects231\obj\Debug\ConsoleAppMethodsObjects231.csproj.AssemblyReference.cache
+C:\Users\dakot\source\repos\ConsoleAppMethodsObjects231\ConsoleAppMethodsObjects231\obj\Debug\ConsoleAppMethodsObjects231.csproj.CoreCompileInputs.cache
+C:\Users\dakot\source\repos\ConsoleAppMethodsObjects231\ConsoleAppMethodsObjects231\obj\Debug\ConsoleAppMethodsObjects231.exe
+C:\Users\dakot\source\repos\ConsoleAppMethodsObjects231\ConsoleAppMethodsObjects231\obj\Debug\ConsoleAppMethodsObjects231.pdb
