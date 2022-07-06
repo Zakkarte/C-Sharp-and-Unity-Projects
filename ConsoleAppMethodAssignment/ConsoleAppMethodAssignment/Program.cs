@@ -14,20 +14,20 @@ namespace ConsoleAppMethodAssignment
             var userValue = Convert.ToInt32(Console.ReadLine());
 
             var mathsObject = new Maths();
-            int resultAdd = mathsObject.Method(userValue, 50);
+            int resultAdd = mathsObject.Method(userValue);
             Console.WriteLine(userValue + " + 50 = " + resultAdd);
             Console.WriteLine("-------------");
             Console.WriteLine("Please input a number as decimal");
             decimal decUserValue = Convert.ToDecimal(Console.ReadLine());
 
-            int resultDecSub = mathsObject.Method(decUserValue, 10);
+            int resultDecSub = mathsObject.Method(decUserValue);
             Console.WriteLine(decUserValue + " - 10 = " + resultDecSub);
             Console.WriteLine("-------------");
 
             Console.WriteLine("Please input a string of text that will be added to an int");
             string stringValue = (Console.ReadLine());
 
-            var restulString = mathsObject.Method(stringValue, 200);
+            int restulString = mathsObject.Method(stringValue);
             Console.WriteLine(stringValue + " + 200 :" + restulString);
 
 

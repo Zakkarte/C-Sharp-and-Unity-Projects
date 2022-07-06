@@ -8,19 +8,27 @@ namespace ConsoleAppMethodAssignment
 {
     public class Maths
     {
-        public int Method(int data, int value)
+        public int Method(int data)
         {
-            return data + value;
+            int result;
+            result = data + 50;
+            return result;
+
         }
 
-        public int Method(decimal data, int value)
+        public int Method(decimal data)
         {
-            return (Convert.ToInt32(data)) - value;
+            int result2;
+            result2 = Convert.ToInt32(data) - 10;
+            return result2;
         }
 
-        public string Method(string data, int value)
+        public int Method(string data)
         {
-            return data + value;
+            int dataConvert = Convert.ToInt32(data);
+            int result3 = dataConvert + 200;
+
+            return result3;
         }
     }
 }
