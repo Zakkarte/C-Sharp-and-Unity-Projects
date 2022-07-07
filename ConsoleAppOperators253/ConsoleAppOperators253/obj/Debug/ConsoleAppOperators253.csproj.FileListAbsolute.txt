@@ -1,0 +1,7 @@
+C:\Users\dakot\source\repos\ConsoleAppOperators253\ConsoleAppOperators253\bin\Debug\ConsoleAppOperators253.exe.config
+C:\Users\dakot\source\repos\ConsoleAppOperators253\ConsoleAppOperators253\bin\Debug\ConsoleAppOperators253.exe
+C:\Users\dakot\source\repos\ConsoleAppOperators253\ConsoleAppOperators253\bin\Debug\ConsoleAppOperators253.pdb
+C:\Users\dakot\source\repos\ConsoleAppOperators253\ConsoleAppOperators253\obj\Debug\ConsoleAppOperators253.csproj.AssemblyReference.cache
+C:\Users\dakot\source\repos\ConsoleAppOperators253\ConsoleAppOperators253\obj\Debug\ConsoleAppOperators253.csproj.CoreCompileInputs.cache
+C:\Users\dakot\source\repos\ConsoleAppOperators253\ConsoleAppOperators253\obj\Debug\ConsoleAppOperators253.exe
+C:\Users\dakot\source\repos\ConsoleAppOperators253\ConsoleAppOperators253\obj\Debug\ConsoleAppOperators253.pdb
