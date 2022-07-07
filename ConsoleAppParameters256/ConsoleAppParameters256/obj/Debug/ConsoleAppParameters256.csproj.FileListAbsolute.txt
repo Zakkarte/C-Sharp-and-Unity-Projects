@@ -1,0 +1,7 @@
+C:\Users\dakot\source\repos\ConsoleAppParameters256\ConsoleAppParameters256\bin\Debug\ConsoleAppParameters256.exe.config
+C:\Users\dakot\source\repos\ConsoleAppParameters256\ConsoleAppParameters256\bin\Debug\ConsoleAppParameters256.exe
+C:\Users\dakot\source\repos\ConsoleAppParameters256\ConsoleAppParameters256\bin\Debug\ConsoleAppParameters256.pdb
+C:\Users\dakot\source\repos\ConsoleAppParameters256\ConsoleAppParameters256\obj\Debug\ConsoleAppParameters256.csproj.AssemblyReference.cache
+C:\Users\dakot\source\repos\ConsoleAppParameters256\ConsoleAppParameters256\obj\Debug\ConsoleAppParameters256.csproj.CoreCompileInputs.cache
+C:\Users\dakot\source\repos\ConsoleAppParameters256\ConsoleAppParameters256\obj\Debug\ConsoleAppParameters256.exe
+C:\Users\dakot\source\repos\ConsoleAppParameters256\ConsoleAppParameters256\obj\Debug\ConsoleAppParameters256.pdb
