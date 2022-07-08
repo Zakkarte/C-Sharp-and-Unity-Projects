@@ -1,0 +1,7 @@
+C:\Users\dakot\source\repos\ConsoleAppParsingEnums262\ConsoleAppParsingEnums262\obj\Debug\ConsoleAppParsingEnums262.csproj.AssemblyReference.cache
+C:\Users\dakot\source\repos\ConsoleAppParsingEnums262\ConsoleAppParsingEnums262\obj\Debug\ConsoleAppParsingEnums262.csproj.CoreCompileInputs.cache
+C:\Users\dakot\source\repos\ConsoleAppParsingEnums262\ConsoleAppParsingEnums262\bin\Debug\ConsoleAppParsingEnums262.exe.config
+C:\Users\dakot\source\repos\ConsoleAppParsingEnums262\ConsoleAppParsingEnums262\bin\Debug\ConsoleAppParsingEnums262.exe
+C:\Users\dakot\source\repos\ConsoleAppParsingEnums262\ConsoleAppParsingEnums262\bin\Debug\ConsoleAppParsingEnums262.pdb
+C:\Users\dakot\source\repos\ConsoleAppParsingEnums262\ConsoleAppParsingEnums262\obj\Debug\ConsoleAppParsingEnums262.exe
+C:\Users\dakot\source\repos\ConsoleAppParsingEnums262\ConsoleAppParsingEnums262\obj\Debug\ConsoleAppParsingEnums262.pdb
