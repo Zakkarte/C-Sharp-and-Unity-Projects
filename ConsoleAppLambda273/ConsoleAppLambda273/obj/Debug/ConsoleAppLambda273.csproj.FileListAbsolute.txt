@@ -1,0 +1,7 @@
+C:\Users\dakot\source\repos\ConsoleAppLambda273\ConsoleAppLambda273\bin\Debug\ConsoleAppLambda273.exe.config
+C:\Users\dakot\source\repos\ConsoleAppLambda273\ConsoleAppLambda273\bin\Debug\ConsoleAppLambda273.exe
+C:\Users\dakot\source\repos\ConsoleAppLambda273\ConsoleAppLambda273\bin\Debug\ConsoleAppLambda273.pdb
+C:\Users\dakot\source\repos\ConsoleAppLambda273\ConsoleAppLambda273\obj\Debug\ConsoleAppLambda273.csproj.AssemblyReference.cache
+C:\Users\dakot\source\repos\ConsoleAppLambda273\ConsoleAppLambda273\obj\Debug\ConsoleAppLambda273.csproj.CoreCompileInputs.cache
+C:\Users\dakot\source\repos\ConsoleAppLambda273\ConsoleAppLambda273\obj\Debug\ConsoleAppLambda273.exe
+C:\Users\dakot\source\repos\ConsoleAppLambda273\ConsoleAppLambda273\obj\Debug\ConsoleAppLambda273.pdb
