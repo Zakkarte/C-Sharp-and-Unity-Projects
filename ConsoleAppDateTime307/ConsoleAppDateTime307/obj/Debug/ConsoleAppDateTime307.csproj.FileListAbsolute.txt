@@ -1,0 +1,7 @@
+C:\Users\dakot\source\repos\ConsoleAppDateTime307\ConsoleAppDateTime307\bin\Debug\ConsoleAppDateTime307.exe.config
+C:\Users\dakot\source\repos\ConsoleAppDateTime307\ConsoleAppDateTime307\bin\Debug\ConsoleAppDateTime307.exe
+C:\Users\dakot\source\repos\ConsoleAppDateTime307\ConsoleAppDateTime307\bin\Debug\ConsoleAppDateTime307.pdb
+C:\Users\dakot\source\repos\ConsoleAppDateTime307\ConsoleAppDateTime307\obj\Debug\ConsoleAppDateTime307.csproj.AssemblyReference.cache
+C:\Users\dakot\source\repos\ConsoleAppDateTime307\ConsoleAppDateTime307\obj\Debug\ConsoleAppDateTime307.csproj.CoreCompileInputs.cache
+C:\Users\dakot\source\repos\ConsoleAppDateTime307\ConsoleAppDateTime307\obj\Debug\ConsoleAppDateTime307.exe
+C:\Users\dakot\source\repos\ConsoleAppDateTime307\ConsoleAppDateTime307\obj\Debug\ConsoleAppDateTime307.pdb
